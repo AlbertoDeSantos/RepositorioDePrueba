@@ -29,3 +29,5 @@ skdjhfjhsdgfk jhdjks gksjhdg fkjahgds kajhgd kjhagd fkjhag dfkjhagdf jkhadgfajkh
 </html>
 ```
 [Google](http://www.google.com "Titulo opcional")
+
+![Gatito](https://github.com/AlbertoDeSantos/RepositorioDePrueba/blob/main/gatito.jpg "Imagen de gatito")
