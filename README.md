@@ -31,3 +31,10 @@ skdjhfjhsdgfk jhdjks gksjhdg fkjahgds kajhgd kjhagd fkjhag dfkjhagdf jkhadgfajkh
 [Google](http://www.google.com "Titulo opcional")
 
 ![Gatito](https://github.com/AlbertoDeSantos/RepositorioDePrueba/blob/main/gatito.jpg "Imagen de gatito")
+
+| Titulo | Titulo 2 | titulo 3 |
+|--------|:----------:|---------:|
+|Nombre | Apellido| Apellido 2|
+|Nombre2| Apellido 3 | Apellido 4|
+|Col 3 | está alineada| derecha|
+|col 2 | está alineada | centro |
